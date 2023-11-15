@@ -1,1 +1,0 @@
-import{I as a,J as o}from"./entry.be0c2818.js";import{u}from"./auth.53e3255c.js";const n=a(t=>{const e=u();if(!["/auth/login","/auth/register"].includes(t.path)&&!e.token)return o({path:"/auth/login"})});export{n as default};

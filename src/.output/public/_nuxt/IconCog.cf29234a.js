@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper.c27b6911.js";import{o as c,e}from"./entry.68a40b73.js";const r={},s={class:"pi pi-cog"};function t(n,_){return c(),e("i",s)}const p=o(r,[["render",t]]);export{p as I};

@@ -1,43 +1,43 @@
 const client_manifest = {
-  "_IconBook.ac93eb9e.js": {
+  "_IconBook.ad923e4f.js": {
     "resourceType": "script",
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "IconBook.ac93eb9e.js",
+    "file": "IconBook.ad923e4f.js",
     "imports": [
       "__plugin-vue_export-helper.c27b6911.js",
       "node_modules/nuxt/dist/app/entry.js"
     ]
   },
-  "_IconCog.37587e7a.js": {
+  "_IconCog.cf29234a.js": {
     "resourceType": "script",
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "IconCog.37587e7a.js",
+    "file": "IconCog.cf29234a.js",
     "imports": [
       "__plugin-vue_export-helper.c27b6911.js",
       "node_modules/nuxt/dist/app/entry.js"
     ]
   },
-  "_IconRefresh.818997b5.js": {
+  "_IconRefresh.94039121.js": {
     "resourceType": "script",
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "IconRefresh.818997b5.js",
+    "file": "IconRefresh.94039121.js",
     "imports": [
       "__plugin-vue_export-helper.c27b6911.js",
       "node_modules/nuxt/dist/app/entry.js"
     ]
   },
-  "_IconTrash.4a12ce6d.js": {
+  "_IconTrash.c4a4eb84.js": {
     "resourceType": "script",
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "IconTrash.4a12ce6d.js",
+    "file": "IconTrash.c4a4eb84.js",
     "imports": [
       "__plugin-vue_export-helper.c27b6911.js",
       "node_modules/nuxt/dist/app/entry.js"
@@ -64,22 +64,22 @@ const client_manifest = {
     "preload": true,
     "file": "_plugin-vue_export-helper.c27b6911.js"
   },
-  "_auth.53e3255c.js": {
+  "_auth.2e97ed73.js": {
     "resourceType": "script",
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "auth.53e3255c.js",
+    "file": "auth.2e97ed73.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ]
   },
-  "_toast-message.839c4d0d.js": {
+  "_toast-message.98c30be3.js": {
     "resourceType": "script",
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "toast-message.839c4d0d.js",
+    "file": "toast-message.98c30be3.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ]
@@ -89,10 +89,10 @@ const client_manifest = {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "AppCreateCourse.405f54c7.js",
+    "file": "AppCreateCourse.e6f5a2e4.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js",
-      "_toast-message.839c4d0d.js"
+      "_toast-message.98c30be3.js"
     ],
     "isDynamicEntry": true,
     "src": "components/dialogs/AppCreateCourse.vue"
@@ -102,10 +102,10 @@ const client_manifest = {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "AppCreateTest.3eafd470.js",
+    "file": "AppCreateTest.dd5d4ded.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js",
-      "_toast-message.839c4d0d.js"
+      "_toast-message.98c30be3.js"
     ],
     "isDynamicEntry": true,
     "src": "components/dialogs/AppCreateTest.vue"
@@ -115,10 +115,10 @@ const client_manifest = {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "AppCreateUpcomingTest.48460717.js",
+    "file": "AppCreateUpcomingTest.73ac6590.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js",
-      "_toast-message.839c4d0d.js"
+      "_toast-message.98c30be3.js"
     ],
     "isDynamicEntry": true,
     "src": "components/dialogs/AppCreateUpcomingTest.vue"
@@ -133,11 +133,11 @@ const client_manifest = {
       "components/dialogs/AppCreateTest.vue",
       "components/dialogs/AppCreateUpcomingTest.vue"
     ],
-    "file": "default.1fb38169.js",
+    "file": "default.baaa30ff.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js",
-      "_auth.53e3255c.js",
-      "_toast-message.839c4d0d.js",
+      "_auth.2e97ed73.js",
+      "_toast-message.98c30be3.js",
       "_Roles.a23a7a2f.js"
     ],
     "isDynamicEntry": true,
@@ -148,7 +148,7 @@ const client_manifest = {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "unauthenticated.80eb9313.js",
+    "file": "unauthenticated.f83e6756.js",
     "imports": [
       "__plugin-vue_export-helper.c27b6911.js",
       "node_modules/nuxt/dist/app/entry.js"
@@ -161,10 +161,10 @@ const client_manifest = {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "auth.da1bfb93.js",
+    "file": "auth.c0cc26f1.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js",
-      "_auth.53e3255c.js"
+      "_auth.2e97ed73.js"
     ],
     "isDynamicEntry": true,
     "src": "middleware/auth.ts"
@@ -174,11 +174,11 @@ const client_manifest = {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "student.f82b5dd0.js",
+    "file": "student.ca224a77.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js",
       "_Roles.a23a7a2f.js",
-      "_auth.53e3255c.js"
+      "_auth.2e97ed73.js"
     ],
     "isDynamicEntry": true,
     "src": "middleware/student.ts"
@@ -188,11 +188,11 @@ const client_manifest = {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "teacher.8459a00b.js",
+    "file": "teacher.b5688959.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js",
       "_Roles.a23a7a2f.js",
-      "_auth.53e3255c.js"
+      "_auth.2e97ed73.js"
     ],
     "isDynamicEntry": true,
     "src": "middleware/teacher.ts"
@@ -202,10 +202,10 @@ const client_manifest = {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "unauthenticated.6bd1314e.js",
+    "file": "unauthenticated.1c8e7090.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js",
-      "_auth.53e3255c.js"
+      "_auth.2e97ed73.js"
     ],
     "isDynamicEntry": true,
     "src": "middleware/unauthenticated.ts"
@@ -240,7 +240,7 @@ const client_manifest = {
       "layouts/default.vue",
       "layouts/unauthenticated.vue"
     ],
-    "file": "entry.be0c2818.js",
+    "file": "entry.68a40b73.js",
     "isEntry": true,
     "src": "node_modules/nuxt/dist/app/entry.js",
     "_globalCSS": true
@@ -313,10 +313,10 @@ const client_manifest = {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "_authToken_.774446e3.js",
+    "file": "_authToken_.f8ca696a.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js",
-      "_toast-message.839c4d0d.js"
+      "_toast-message.98c30be3.js"
     ],
     "isDynamicEntry": true,
     "src": "pages/auth/forgot-password/[userId]/[authToken].vue"
@@ -326,10 +326,10 @@ const client_manifest = {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "index.0f137eec.js",
+    "file": "index.232081b1.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js",
-      "_toast-message.839c4d0d.js"
+      "_toast-message.98c30be3.js"
     ],
     "isDynamicEntry": true,
     "src": "pages/auth/forgot-password/index.vue"
@@ -339,11 +339,11 @@ const client_manifest = {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "login.e77b89ea.js",
+    "file": "login.23ac38e4.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js",
-      "_auth.53e3255c.js",
-      "_toast-message.839c4d0d.js"
+      "_auth.2e97ed73.js",
+      "_toast-message.98c30be3.js"
     ],
     "isDynamicEntry": true,
     "src": "pages/auth/login.vue"
@@ -353,10 +353,10 @@ const client_manifest = {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "register.a3d1a52f.js",
+    "file": "register.3e6df33c.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js",
-      "_toast-message.839c4d0d.js"
+      "_toast-message.98c30be3.js"
     ],
     "isDynamicEntry": true,
     "src": "pages/auth/register.vue"
@@ -366,7 +366,7 @@ const client_manifest = {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "_id_.1996f12f.js",
+    "file": "_id_.2e878d9d.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ],
@@ -378,7 +378,7 @@ const client_manifest = {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "_id_.7186960d.js",
+    "file": "_id_.a3418428.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ],
@@ -390,12 +390,12 @@ const client_manifest = {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "index.b72355fe.js",
+    "file": "index.39e85917.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js",
-      "_IconCog.37587e7a.js",
-      "_IconRefresh.818997b5.js",
-      "_toast-message.839c4d0d.js",
+      "_IconCog.cf29234a.js",
+      "_IconRefresh.94039121.js",
+      "_toast-message.98c30be3.js",
       "__plugin-vue_export-helper.c27b6911.js"
     ],
     "isDynamicEntry": true,
@@ -406,10 +406,10 @@ const client_manifest = {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "index.94db2a03.js",
+    "file": "index.b9bf0fec.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js",
-      "_auth.53e3255c.js",
+      "_auth.2e97ed73.js",
       "__plugin-vue_export-helper.c27b6911.js"
     ],
     "isDynamicEntry": true,
@@ -420,7 +420,7 @@ const client_manifest = {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "_upcomingTestId_.8b86fc67.js",
+    "file": "_upcomingTestId_.26d957eb.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ],
@@ -432,7 +432,7 @@ const client_manifest = {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "_userId_.8df817da.js",
+    "file": "_userId_.c1cf7d54.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ],
@@ -444,11 +444,11 @@ const client_manifest = {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "index.f366fc8a.js",
+    "file": "index.ea3a3fef.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js",
-      "_IconRefresh.818997b5.js",
-      "_IconBook.ac93eb9e.js",
+      "_IconRefresh.94039121.js",
+      "_IconBook.ad923e4f.js",
       "__plugin-vue_export-helper.c27b6911.js"
     ],
     "isDynamicEntry": true,
@@ -459,7 +459,7 @@ const client_manifest = {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "_testId_.b035525b.js",
+    "file": "_testId_.33df08e1.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js",
       "_QuestionTypes.2471fd4d.js"
@@ -472,13 +472,13 @@ const client_manifest = {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "_id_.0cb7ae83.js",
+    "file": "_id_.6d008830.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js",
       "_QuestionTypes.2471fd4d.js",
-      "_IconTrash.4a12ce6d.js",
+      "_IconTrash.c4a4eb84.js",
       "__plugin-vue_export-helper.c27b6911.js",
-      "_toast-message.839c4d0d.js"
+      "_toast-message.98c30be3.js"
     ],
     "isDynamicEntry": true,
     "src": "pages/test/my/[id].vue"
@@ -488,13 +488,13 @@ const client_manifest = {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "index.35a43b6d.js",
+    "file": "index.4012e5cd.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js",
-      "_IconCog.37587e7a.js",
-      "_IconTrash.4a12ce6d.js",
-      "_toast-message.839c4d0d.js",
-      "_IconRefresh.818997b5.js",
+      "_IconCog.cf29234a.js",
+      "_IconTrash.c4a4eb84.js",
+      "_toast-message.98c30be3.js",
+      "_IconRefresh.94039121.js",
       "__plugin-vue_export-helper.c27b6911.js"
     ],
     "isDynamicEntry": true,
@@ -505,10 +505,10 @@ const client_manifest = {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "index.7712816f.js",
+    "file": "index.88a40b1f.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js",
-      "_IconRefresh.818997b5.js",
+      "_IconRefresh.94039121.js",
       "__plugin-vue_export-helper.c27b6911.js"
     ],
     "isDynamicEntry": true,
@@ -519,12 +519,12 @@ const client_manifest = {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "index.8aa1a0da.js",
+    "file": "index.46f2806d.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js",
-      "_IconBook.ac93eb9e.js",
-      "_IconRefresh.818997b5.js",
-      "_IconTrash.4a12ce6d.js",
+      "_IconBook.ad923e4f.js",
+      "_IconRefresh.94039121.js",
+      "_IconTrash.c4a4eb84.js",
       "__plugin-vue_export-helper.c27b6911.js"
     ],
     "isDynamicEntry": true,
