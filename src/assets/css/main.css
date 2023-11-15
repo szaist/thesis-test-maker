@@ -1,0 +1,35 @@
+@layer tailwind-base, primevue, tailwind-utilities;
+
+@layer tailwind-base {
+  @tailwind base;
+
+}
+
+@layer tailwind-utilities {
+  @tailwind components;
+  @tailwind utilities;
+}
+
+body {
+    @apply bg-[url('/images/background.jpg')] bg-cover bg-fixed
+}
+
+.dialog-logout-accept-btn {
+  @apply bg-red-500 border-red-500 
+}
+
+.dialog-logout-accept-btn:hover {
+  @apply hover:bg-red-700 hover:border-red-700
+}
+
+.text-h1 {
+  @apply text-black text-4xl
+}
+
+.dialog-red-btn {
+  @apply bg-red-500 border-red-500 
+}
+
+.dialog-red-btn:hover {
+  @apply hover:bg-red-700 hover:border-red-700
+}

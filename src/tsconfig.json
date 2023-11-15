@@ -1,0 +1,12 @@
+{
+    // https://nuxt.com/docs/guide/concepts/typescript
+    "extends": "./.nuxt/tsconfig.json",
+    "compilerOptions": {
+        // "target": "es2017",
+        // "lib": ["es6", "dom"],
+        "types": ["reflect-metadata"],
+        // "module": "commonjs",
+        // "moduleResolution": "node",
+        "verbatimModuleSyntax": false
+    }
+}
